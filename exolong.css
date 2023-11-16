@@ -1,0 +1,28 @@
+
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+body {
+    background-image: url("image cv.jpg");
+  }
+.h2 {color: rgb(251, 6, 6);}
+img {
+    border-radius: 50%;
+  }
+.texte {
+    font-size: large;
+    font-style: italic;
+}
+.h3 {
+    position: relative;
+    top: 35%;
+    right: 0%;
+}
+.imput {
+    position:relative;
+    top: 35%;
+    left: 50%;
+}
+.imput2 {
+    position: relative;
+    top: 45%;
+    right: 0%;
+}
